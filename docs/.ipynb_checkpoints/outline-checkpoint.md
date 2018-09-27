@@ -10,6 +10,10 @@
  - https://htmlcolorcodes.com/color-picker/
  - https://encycolorpedia.com/
  - https://www.colorhexa.com/
+ - https://coolors.co/
+ - http://colormind.io/
+ - https://public.tableau.com/profile/neil.richards#!/vizhome/colours_2/100colours?publish=yes // https://www.canva.com/learn/100-color-combinations/
+ 
 
 
 ##### Sections:
