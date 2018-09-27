@@ -1,4 +1,4 @@
-def cimarron_theme():
+def custom_theme():
     markColor = "#282828"
     axisColor = "#282828"
     backgroundColor = "#FFFAFA"
@@ -196,5 +196,5 @@ def cimarron_theme():
     
     
 import altair as alt
-alt.themes.register("cimarron", cimarron_theme)
-alt.themes.enable("cimarron")
+alt.themes.register("my_theme", custom_theme)
+alt.themes.enable("my_theme")
