@@ -2,13 +2,13 @@ def custom_theme():
     markColor = "#282828"
     axisColor = "#282828"
     backgroundColor = "#FFFAFA"
-    font = "Ubuntu"
-    labelfont = "Ubuntu Condensed"
-    sourcefont = "Ubuntu Mono"
+    font = "Lato"
+    labelfont = "Lato"
+    sourcefont = "Lato"
     gridColor = "#C9C9C9"
     return {
-        "width": 1080,
-        "height": 800,   
+        "width": 685,
+#        "height": 400,   
         "autosize": "fit",
         "config": {
            "padding": 10,
@@ -172,8 +172,8 @@ def custom_theme():
            },
            "title":{
                "anchor": "start",
-               "fontSize": 24,
-               "fontWeight": 600,
+               "fontSize": 12,
+               "fontWeight": 200,
                "font": font,
                "offset": 20,
            },
